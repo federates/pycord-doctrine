@@ -10,7 +10,7 @@ The import location and pypi project if so should start with pycord.ext.
 ## Extension Functionality
 
 While Pycord in some cases specializes extensions, like state having access to and storing intents, foreign or outsider extensions shall not modify or change any part of **existing** Pycord classes, methods, functions, and attributes.
-They may however subclass or remake said functions and an exclusion is giving for extensions which provide cogs and override on_attach.
+They may however subclass or remake said functions and an exclusion is giveb for extensions which provide Gears and override on_attach.
 
 ## Extension Integration Policy
 
